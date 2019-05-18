@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/firstItem" android:title="Lab5 Enter and Exit Anim" android:icon="@drawable/ic_action_name"></item>
+    <item android:id="@+id/secondItem" android:title="second" android:icon="@drawable/ic_action_name"></item>
+    <item android:id="@+id/thirdItem" android:title="third" android:icon="@drawable/ic_action_name"></item>
+
+    <item android:id="@+id/fourthItem" android:title="fourth" android:icon="@drawable/ic_action_name"></item>
+
+
+</menu>

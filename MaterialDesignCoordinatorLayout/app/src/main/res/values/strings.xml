@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MaterialDesignCoordinatorLayout</string>
+    <string name="firstinfo">Full Moon Info 1</string>
+    <string name="secondinfo">Full Moon Info 2</string>
+    <string name="thirdinfo">Full Moon Info 3</string>
+</resources>

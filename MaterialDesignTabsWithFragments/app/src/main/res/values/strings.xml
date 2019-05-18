@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesignThirdLab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstFragment">First Color</string>
+    <string name="secondFragment">Second Color</string>
+    <string name="thirdFragment">Third Color</string>
+</resources>
